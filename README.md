@@ -13,7 +13,9 @@
 
  #Bukti sreenshot
    Instal Laravel
+   
 <img width="512" alt="install laravel" src="https://github.com/user-attachments/assets/06d15b5b-baa1-4127-ab4c-8380c976503f">
+
 <img width="835" alt="laravel2" src="https://github.com/user-attachments/assets/75c74076-f644-4f6b-adb9-5e05cc6a9c8b">
 <img width="698" alt="php artisan serve" src="https://github.com/user-attachments/assets/db69527f-ac82-4236-9946-f787ec91571b">
 <img width="838" alt="wlcome" src="https://github.com/user-attachments/assets/524ea02e-2ecc-463f-a9be-fd529bca5fe4">
